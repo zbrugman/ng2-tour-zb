@@ -9,7 +9,7 @@ export class DemoComponent {
   constructor(public tourService: TourService) {
     this.tourService.initialize([{
       anchorId: 'start.tour',
-      content: 'Welcome to the Ng2-Tour tour!',
+      content: 'Welcome to the Ng2-Tour-ZB tour!',
       placement: 'below',
       title: 'Welcome',
     }, {

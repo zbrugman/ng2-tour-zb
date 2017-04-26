@@ -1,6 +1,6 @@
 {
-  "name": "ng2-tour",
-  "version": "0.1.5",
+  "name": "ng2-tour-zb",
+  "version": "0.0.1",
   "description": "Product tour library built in Angular (2+)",
   "main": "index.js",
   "scripts": {
@@ -27,11 +27,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isaacplmann/ng2-tour.git"
+    "url": "git+https://github.com/zbrugman/ng2-tour-zb.git"
   },
   "author": {
-    "name": "isaacplmann",
-    "email": "isaacplmann@gmail.com"
+    "name": "zbrugman",
+    "email": "zach.brugman@gmail.com"
   },
   "license": "ISC",
   "peerDependencies": {
